@@ -16,5 +16,4 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'administrate', '< 1.0.0'
   gem.add_runtime_dependency 'rails', '>= 4.1'
-  gem.add_runtime_dependency 'trix-rails', '>= 0.11.4.1'
 end
